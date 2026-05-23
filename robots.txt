@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cinemanews2.com.br/sitemap.xml
